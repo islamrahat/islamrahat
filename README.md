@@ -16,7 +16,7 @@
 
 ```yaml
 [rahat@github:~$] systemfetch
-    			            .::.                                         
+                            .::.                                         
                    .oxOKXNWMMMMWWXKOxo'                           rahat@github
                 oOXMMMMMMMMMMMMMMMMMMMMXOo                        -----------
               ;OWMMMMMMMMMMMMMMMMMMMMMMMMMMWO;                    OS: EndeavourOS x86_64

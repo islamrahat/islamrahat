@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/islamrahat)
 [![CodeForces](https://img.shields.io/badge/codeforces-%230A66C2.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/islam_rahat)
 [![CodeChef](https://img.shields.io/badge/codechef-%230A66C2.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/islam_rahat)
-[![CodeForces](https://img.shields.io/badge/leetcode-%230A66C2.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/profile/islam_rahat)
+[![CodeForces](https://img.shields.io/badge/leetcode-%230A66C2.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/islam_rahat)
 
 <img src="images/hacker-cat.gif" width=30%>
 </div>

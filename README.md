@@ -35,7 +35,7 @@
          MMMM  .MMMKxl,              ;lxKWMMMMMMMMM               
           MMMXx. cMMMMMWx          xWMMMMMMMMMMMMM                Focus: Problem Solving
            xMMMX. ' cMK            .MMMMMMMMMMMMk                 Current Goal: Reaching Pupil (1200) on CodeForces
-             NMMNo                  MMMMMMMMMMW                   [##############------] (930/1200)
+             NMMNo                  MMMMMMMMMMW                   [##############------] (946/1200)
                OMWKOOO0             MMMMMMMMO                     
                    0MMMMM.          .MMMMM0                       
                         .            .

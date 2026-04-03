@@ -19,10 +19,10 @@
                             .::.                                         
                    .oxOKXNWMMMMWWXKOxo'                           rahat@github
                 oOXMMMMMMMMMMMMMMMMMMMMXOo                        -----------
-              ;OWMMMMMMMMMMMMMMMMMMMMMMMMMMWO;                    OS: EndeavourOS x86_64
+              ;OWMMMMMMMMMMMMMMMMMMMMMMMMMMWO;                    OS: CuriOS x86_64
             ;KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMK:                  Host: Human Body
           .OMMMMMo   0MMMMMMMMMMMMMMMMK   cMMMMMO.                Kernel: Linux 6.18.7-arch1-1
-         .NMMMMMM                          MMMMMMN'               Uptime: 20 years
+         .NMMMMMM                          MMMMMMN'               Uptime: 21 years
         .WMMMMMMM                          MMMMMMMW'              Packages: C/C++, Python, Algorithms
         NMMMMMMMM                          WMMMMMMMN              Shell: bash 5.3.9
        oMMMMMMMK                            0MMMMMMMd             Cursor: Submit Button
